@@ -49,7 +49,7 @@ npx expo start --web
 
 This project demonstrates how to build an API-driven translation application using React Native. It provides practical experience with REST API integration, asynchronous requests, language selection, response handling, error management, and building a clean mobile interface for real-time translation.
 
-Screenshot-
+ScreenShot
 
 ![Screenshot_20241006-035030](https://github.com/user-attachments/assets/7475fed9-5aa7-4723-8a62-1a29e6154627)
 ![Screenshot_20241006-035053](https://github.com/user-attachments/assets/9a83a53a-9185-4d19-b24b-0deb672477dd)
